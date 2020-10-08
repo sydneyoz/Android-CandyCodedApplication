@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602187576948</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Start the Google Maps Activity">
+      <created>1602188224489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602188224489</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -285,10 +292,10 @@
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
     <state x="1971" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602183975761" />
-    <state x="1735" y="24" key="CommitChangelistDialog2" timestamp="1602187575768">
+    <state x="1735" y="24" key="CommitChangelistDialog2" timestamp="1602188223688">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
-    <state x="1735" y="24" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602187575768" />
+    <state x="1735" y="24" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602188223688" />
     <state width="1557" height="221" key="GridCell.Tab.0.bottom" timestamp="1602185919582">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
@@ -309,10 +316,10 @@
     </state>
     <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602185919582" />
     <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601932823675" />
-    <state x="1758" y="163" key="Vcs.Push.Dialog.v2" timestamp="1602187599221">
+    <state x="1758" y="163" key="Vcs.Push.Dialog.v2" timestamp="1602188243052">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
-    <state x="1758" y="163" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602187599221" />
+    <state x="1758" y="163" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602188243052" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602181446905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
